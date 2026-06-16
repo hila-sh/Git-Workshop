@@ -1,0 +1,10 @@
+# Ignore datasets
+*.csv
+*.tsv
+*.pkl
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment variables
+.env
