@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments and packages
+.venv/
+env/
+venv/
+ENV/
+
+# Data and large model checkpoints (Crucial for Data Science)
+data/
+*.pkl
+*.pickle
+*.h5
+*.joblib
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local experiment runtime artifacts
+metrics.json
